@@ -20,7 +20,7 @@ The theory we are learning here is metatheory, which means theory about everythi
 > are now about to become more than we have been before. As long as one
 > operates in the middle of things, one can never really know the nature of
 > the medium in which one moves.
--William Irwin Thompson
+- William Irwin Thompson
 
 ### The trees
 > One man draws out the wire, another straights it, a third cuts it, a fourth
@@ -33,4 +33,57 @@ The theory we are learning here is metatheory, which means theory about everythi
 - Adam Smith *The Weatlth of Nations*
 
 ### Tangible Vs. Intangible
-Tangible assets are physical assets such as land, vehicles, equipment, machinery, furniture, inventory, stock, bonds, and cash. These assets are the backbone of a company but are not available to customers. Tangible assets are at risk of damage either from naturally occuring incidents, theft or accidents.
+Tangible assets are physical assets such as:
+ - land
+ - vehicles
+ - equipment
+ - machinery
+ - furniture
+ - inventory
+ - stock
+ - bonds
+ - cash
+These assets are the backbone of a company but are not available to customers. Tangible assets are at risk of damage either from naturally occuring incidents, theft or accidents.
+
+Intangible assets are nonphysical, such as:
+- patents
+- trademarks
+- franchises
+- goodwill
+- copyrights
+Depending on the type of business, intagible assets may include:
+- internet domain names
+- performance events
+- licensing agreements
+- service contracts
+- computer software
+- blueprints
+- manuscripts
+- joint ventures
+- medical records
+- permits
+- trade secrets
+Intangible assets add to a company's possible future worth and can be much more valuable than its tangible assets. In the 70's the market value of S&P 500 lied in 80% tangible assets and 20% intangible. Today it's reversed, intagible assets make up for 80% and tangible for 20%.
+
+### Capital as a Social Construction
+>The total value of real estate not legally owned by the poor of the Third
+>World and former communist nations is at least $9,3 trillion... about
+>twice as much as the total circulating US money supply... and nearly
+>as much as the total value of all the companies listed on the main
+>stock exchanges of the world’s twenty most developed countries...
+>twenty times the total direct foreign investment into all Third World and
+>former communist countries in the ten years after 1989… forty-six
+>times as much as all the World Bank loans of the past three decades,
+>and ninety-three times as much as all development assistance from all
+>advanced countries to the Third World in the same period.
+- Hernando de Soto, *The Mystery of Capital*
+
+>[LDCs] hold resources in defective forms: houses built on land whose
+>ownership rights are not adequately recorded, unincorporated
+>businesses with undefined liability, industries located where financiers
+>and investors cannot see them. Because the rights to these
+>possessions are not adequately documented, these assets cannot be
+>traded into capital, cannot be traded outside of narrow circles where
+>people know and trust each other, cannot be used as collateral for a
+>loan and cannot be used as a share against an investment.
+- Hernando de Soto, *The Mystery of Capital*
