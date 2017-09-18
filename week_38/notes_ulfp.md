@@ -44,3 +44,54 @@ and by whom?
 claim if to be able to perform?
 - step 3. Strategy: How shall the firm strategically act if to be able to claim and control the necessary intellectual assets?
 - step 4. Operations: How do we ensure the concrete activities?
+
+The material value chain is known to every person involved with business.
+
+### General considerations of business creation
+
+- step 1. Market assessment: What is the market?
+- step 2. Vision: What is the firm's business
+- step 3.
+- step 4.
+
+### R&D
+
+- 1. To what extend do we and shall we do own R&D (in the company).
+- 2. To what extent do we and shall we do R&D collaboration?
+- 3. To waht extent do we and shall we do contract research?
+- 4. To what extent do we and shall we do licensing alt. purchase of
+intellectual property/property rights?
+
+### Manufacturing
+
+- 1. To what extent do we and shall we do own manufacturing (in the company).
+- 2. To what extent do we and shall we purchase components for assembly
+of products
+- 3. To what extent do we and shall we do lego manufacturing/out sourcing?
+- 4. To what extent do we and shall we do licensing alt. sales of intellectual
+property and thereby allow others to manufature?
+
+### Distribution
+
+- 1. To what extent do we and shall we do own distribution?
+- 2. To what extent do we and shall we distribute through agency-relations?
+- 3. To what extent do we and shall we distribute through commission-relations?
+- 4. To what extent do we and shall we sell products to a reseller?
+
+### Retailer
+
+- 1. To what extent do we and shall we do own retailing?
+- - a) *Transaction:* By sale of products?
+- - b) *Relation/transaction:* By renting out products?
+- - c) *Relation/transaction:* By leasing products?
+- 2. To what extent do we and shall we sell products to end...
+- 3. ...
+
+### Services (after market)
+
+- 1. To what extent do we and shall we provide spare-parts and do
+service/repairs?
+- 2. To what extent do we and shall we sell spare-parts to other
+agents/commissioner who provides service/repairs?
+- 3. To what extent do we and shall we sell spare-parts to other retailers
+who provides service/repairs?
