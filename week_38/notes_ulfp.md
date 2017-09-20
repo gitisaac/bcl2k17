@@ -95,3 +95,6 @@ service/repairs?
 agents/commissioner who provides service/repairs?
 - 3. To what extent do we and shall we sell spare-parts to other retailers
 who provides service/repairs?
+
+>Are you with me in this?
+-- *Ulf Petrusson, 2017*
