@@ -56,44 +56,46 @@ The material value chain is known to every person involved with business.
 
 ### R&D
 
-- 1. To what extend do we and shall we do own R&D (in the company).
-- 2. To what extent do we and shall we do R&D collaboration?
-- 3. To waht extent do we and shall we do contract research?
-- 4. To what extent do we and shall we do licensing alt. purchase of
+- Step 1. To what extend do we and shall we do own R&D (in the company).
+- Step 2. To what extent do we and shall we do R&D collaboration?
+- Step 3. To waht extent do we and shall we do contract research?
+- Step 4. To what extent do we and shall we do licensing alt. purchase of
 intellectual property/property rights?
 
 ### Manufacturing
 
-- 1. To what extent do we and shall we do own manufacturing (in the company).
-- 2. To what extent do we and shall we purchase components for assembly
+- Step 1. To what extent do we and shall we do own manufacturing
+(in the company).
+- Step 2. To what extent do we and shall we purchase components for assembly
 of products
-- 3. To what extent do we and shall we do lego manufacturing/out sourcing?
-- 4. To what extent do we and shall we do licensing alt. sales of intellectual
+- Step 3. To what extent do we and shall we do lego manufacturing/out sourcing?
+- Step 4. To what extent do we and shall we do licensing alt. sales of intellectual
 property and thereby allow others to manufature?
 
 ### Distribution
 
-- 1. To what extent do we and shall we do own distribution?
-- 2. To what extent do we and shall we distribute through agency-relations?
-- 3. To what extent do we and shall we distribute through commission-relations?
-- 4. To what extent do we and shall we sell products to a reseller?
+- Step 1. To what extent do we and shall we do own distribution?
+- Step 2. To what extent do we and shall we distribute through agency-relations?
+- Step 3. To what extent do we and shall we distribute through
+commission-relations?
+- Step 4. To what extent do we and shall we sell products to a reseller?
 
 ### Retailer
 
-- 1. To what extent do we and shall we do own retailing?
-- - a) *Transaction:* By sale of products?
-- - b) *Relation/transaction:* By renting out products?
-- - c) *Relation/transaction:* By leasing products?
-- 2. To what extent do we and shall we sell products to end...
-- 3. ...
+- Step 1. To what extent do we and shall we do own retailing?
+  - a) *Transaction:* By sale of products?
+  - b) *Relation/transaction:* By renting out products?
+  - c) *Relation/transaction:* By leasing products?
+- Step 2. To what extent do we and shall we sell products to end...
+- Step 3. ...
 
 ### Services (after market)
 
-- 1. To what extent do we and shall we provide spare-parts and do
+- Step 1. To what extent do we and shall we provide spare-parts and do
 service/repairs?
-- 2. To what extent do we and shall we sell spare-parts to other
+- Step 2. To what extent do we and shall we sell spare-parts to other
 agents/commissioner who provides service/repairs?
-- 3. To what extent do we and shall we sell spare-parts to other retailers
+- Step 3. To what extent do we and shall we sell spare-parts to other retailers
 who provides service/repairs?
 
 >Are you with me in this?
