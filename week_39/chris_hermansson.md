@@ -50,9 +50,9 @@ Some examples:
 _Static (product centric logic)_
 
 - _A legal right_
--- to block other from entering technology areas
--- to block others from entering product market
--- to exclude other from using an invention
+  - to block other from entering technology areas
+  - to block others from entering product market
+  - to exclude other from using an invention
 
 #### Patent as a business tool
 
