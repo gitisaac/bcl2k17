@@ -20,9 +20,9 @@ document.
 ### Some practicalities
 
 - Reading list - section Resources -reading materials - IPS
--- Will be slightly updated - a few articles will be added!
+  - Will be slightly updated - a few articles will be added!
 - Consulation case work
--- More info will follo, see pingpong
+  - More info will follo, see pingpong
 - You have space in the schedule to work on your assignments, cases, hand-ins
 etc.
 - Messages, exercises, other info (Questel) etc. will be distributed on
