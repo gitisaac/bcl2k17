@@ -68,3 +68,12 @@ others when holding a patent, PA §3 p.1-3
 - Software ('computer program') §1p. 3 PA
 - Business methods §1p.3 PA
 
+### Patentability criteria
+
+- Novelty: PA §2 first part of first sentence, and §2 paragraph 2,3,4
+- Non-obvious/inventive step: PA §2 second part of first sentence.
+- Industrial application: PA §1, first sentence.
+
+**NOTE** §N refers to article nr. N, and parapgrah M refers to paragraph M
+where N and M are positive integers.
+
