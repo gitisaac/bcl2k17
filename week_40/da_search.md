@@ -19,4 +19,11 @@ otherwise you will miss some results that might be interesting to you.
 5. How are the relevant documents classified? What words are used? ->
 6. Evaluate and improve the search strategy: new words or classes, different
 method or database. ->
-7. Back to III
+7. Back to step 3
+
+### Remember
+
+- The risk is that you make strategic decisions based on insufficient data
+- Plan your search carefully
+- Test different search strategies and evaluate the different results
+- Remember that your search answer will only be as good as the question you ask
