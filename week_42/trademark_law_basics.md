@@ -60,5 +60,26 @@ Trademark (when you consider your shit trademarked) -> ™
 
 - In most jurisdictions - _Graphically Representable_
 - Word mark:
-  - Name Adidas, Coca-cola, Chanel
-  - Slogan ***JUST DO IT***
+  - Name: Adidas, Coca-cola, Chanel
+  - Slogan: ***JUST DO IT***
+- Colour mark
+- Smell mark
+- Sound mark
+
+### Distinctiveness - examples
+###### Hästens
+- Registered as distinctiveness was acquired through use
+###### Pampers Baby-Dry
+- Baby-Dry was registered after ECJ-ruling
+###### Karlson's klister
+- Karlson's klister was considered descriptive, but vould be registered due to
+acquired distinctiveness through establishment
+
+### Degenerated trademarks
+- Trademarks that has been used extensively by the public
+- Loses its distinctiveness as a trademark - loses protection
+
+Thermos, Hooverm Dynamit, Aspirin
+
+Jeep, Kleenex, Nylon, Google...?
+
