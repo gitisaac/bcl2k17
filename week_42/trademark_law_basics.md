@@ -40,4 +40,25 @@ marks is in their products, like Gilette)
 - European Union Trade mark Regulation (EU) 2017/1001
 
 ### Trademark protection
-Registration (R)
+Registration -> (R)
+Trademark (when you consider your shit trademarked) -> ™
+
+### Registration vs. establishment
+###### The benefits of registration are:
+- Automatically a defined geographical area of protection
+- Automatically a defined scope of products
+- Automatically a defined commencement of protection
+- Easier to prove existence of your right
+- Easier to transfer
+- Less risk of infringement
+
+###### Consider:
+- Registration costs vs. cost of (proving) establishment
+- Easier for competitors to find a registration than an established mark
+
+### Different kinds of registrable trademarks
+
+- In most jurisdictions - _Graphically Representable_
+- Word mark:
+  - Name Adidas, Coca-cola, Chanel
+  - Slogan ***JUST DO IT***
