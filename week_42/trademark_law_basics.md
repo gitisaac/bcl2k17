@@ -83,3 +83,49 @@ Thermos, Hooverm Dynamit, Aspirin
 
 Jeep, Kleenex, Nylon, Google...?
 
+KESO is a prime example
+
+### Trademark - the scope of protection
+
+###### Exclusive right to use a particular symbol in the course of business,
+except
+- The right to use there family name, trade name and origin/address
+- The right to use information regarding goods or services quality, quantity
+or function,  etc.
+- Right to use third parties trade marks to indicate intended use or function of
+the goods or service
+- Private use
+- Exhaustion of rights/parallel import
+
+:arrow_right: In line with god business practice
+
+###### An eternal right, unless
+- Unpaid fees
+- Invalidation due to deceptive character, no longer distinctive, contrary to
+public order or likely to cause offence
+- Invalidation due to no use (5 consecutive years)
+- If it is an established right; maintained as long as establishment
+
+### Sanctions in infringement - short overview (to scare you)
+
+- Criminal process
+- Civil process
+
+- Fines
+- Damages
+- Injuction
+- Jail (up to two years)
+
+- Warning letter
+- Infringement investigation
+
+### Swedish registration - (PRV)
+
+- Protection only in Sweden
+- Pre-trial by PRV - exams both obstacles based on absolute and realtive grounds
+ex officio
+- Oppostition within three months from publication
+... :sleeping:
+
+
+
